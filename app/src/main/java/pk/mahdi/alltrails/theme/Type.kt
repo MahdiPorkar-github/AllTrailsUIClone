@@ -1,4 +1,4 @@
-package com.adammcneilly.alltrails.theme
+package pk.mahdi.alltrails.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

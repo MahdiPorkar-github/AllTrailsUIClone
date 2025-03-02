@@ -1,4 +1,4 @@
-package com.adammcneilly.alltrails
+package pk.mahdi.alltrails
 
 import android.content.res.Configuration
 import androidx.compose.animation.AnimatedVisibility
@@ -26,7 +26,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.adammcneilly.alltrails.theme.AllTrailsTheme
+import pk.mahdi.alltrails.theme.AllTrailsTheme
 
 @Composable
 fun ATContent(modifier: Modifier = Modifier) {

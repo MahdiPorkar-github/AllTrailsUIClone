@@ -1,4 +1,4 @@
-package com.adammcneilly.alltrails
+package pk.mahdi.alltrails
 
 import android.content.res.Configuration
 import androidx.compose.foundation.ExperimentalFoundationApi
@@ -43,7 +43,7 @@ import androidx.compose.ui.text.PlaceholderVerticalAlign
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.adammcneilly.alltrails.theme.AllTrailsTheme
+import pk.mahdi.alltrails.theme.AllTrailsTheme
 import kotlin.math.abs
 import kotlin.math.max
 

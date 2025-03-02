@@ -4,7 +4,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".AllTrailsApp"
+        android:name="pk.mahdi.alltrails.AllTrailsApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -13,7 +13,7 @@
         android:theme="@style/Theme.AppTheme">
 
         <activity
-            android:name="com.adammcneilly.alltrails.MainActivity"
+            android:name="com.adammcneilly.alltrails.pk.adammcneilly.alltrails.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.AppTheme.NoActionBar"
             android:windowSoftInputMode="adjustResize">

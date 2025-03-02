@@ -1,4 +1,4 @@
-package com.adammcneilly.alltrails
+package pk.mahdi.alltrails
 
 import androidx.compose.animation.AnimatedContent
 import androidx.compose.animation.ContentTransform

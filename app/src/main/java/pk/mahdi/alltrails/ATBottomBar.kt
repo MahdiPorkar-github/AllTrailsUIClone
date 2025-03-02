@@ -1,4 +1,4 @@
-package com.adammcneilly.alltrails
+package pk.mahdi.alltrails
 
 import android.content.res.Configuration
 import androidx.compose.foundation.layout.RowScope
@@ -20,7 +20,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
-import com.adammcneilly.alltrails.theme.AllTrailsTheme
+import pk.mahdi.alltrails.theme.AllTrailsTheme
 
 @Composable
 fun ATBottomBar(modifier: Modifier = Modifier) {

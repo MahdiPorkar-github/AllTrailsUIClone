@@ -1,4 +1,4 @@
-package com.adammcneilly.alltrails
+package pk.mahdi.alltrails
 
 import android.content.res.Configuration
 import androidx.compose.foundation.background
@@ -23,17 +23,9 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.adammcneilly.alltrails.theme.AllTrailsTheme
+import pk.mahdi.alltrails.theme.AllTrailsTheme
 import kotlinx.coroutines.delay
 
-/**
- * This is implemented as a [SearchBar] for now to get
- * as close as possible to the existing UI. However,
- * if we decide to animate the text similar to AllTrails, we will probably
- * need to replace this with a custom component that gives us
- * control over the query content (as opposed to this which just consumes
- * a string).
- */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ATSearchInput(modifier: Modifier = Modifier) {

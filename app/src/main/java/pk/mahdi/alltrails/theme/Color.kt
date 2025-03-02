@@ -1,6 +1,6 @@
 @file:Suppress("MagicNumber")
 
-package com.adammcneilly.alltrails.theme
+package pk.mahdi.alltrails.theme
 
 import androidx.compose.ui.graphics.Color
 

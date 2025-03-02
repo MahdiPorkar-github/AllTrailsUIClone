@@ -1,4 +1,4 @@
-package com.adammcneilly.alltrails.theme
+package pk.mahdi.alltrails.theme
 
 import android.annotation.TargetApi
 import android.os.Build

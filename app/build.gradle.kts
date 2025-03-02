@@ -10,7 +10,7 @@ android {
     compileSdk = libs.versions.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "com.adammcneilly.alltrails"
+        applicationId = "pk.mahdi.alltrails"
         minSdk = libs.versions.minSdk.get().toInt()
         targetSdk = libs.versions.compileSdk.get().toInt()
         versionCode = 1
@@ -48,7 +48,7 @@ android {
         }
     }
 
-    namespace = "com.adammcneilly.alltrails"
+    namespace = "pk.mahdi.alltrails"
 }
 
 dependencies {

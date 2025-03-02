@@ -1,4 +1,6 @@
-package com.adammcneilly.alltrails
+package pk.mahdi.alltrails
+
+import com.adammcneilly.alltrails.R
 
 object TrailImagesGenerator {
     private val images = listOf(
